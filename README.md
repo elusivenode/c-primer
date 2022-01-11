@@ -1,1 +1,1 @@
-# c-primer
+# Code and exercises from the book C++ primer
