@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
-    unsigned month = 07;
+    int _ = 3.14;
+    std::cout << _;
     return 0;
 }
