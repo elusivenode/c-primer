@@ -1,7 +1,8 @@
 #include <iostream>
 
 int main() {
-    int _ = 3.14;
-    std::cout << _;
+    int i, &ri = i;
+    i = 5; ri = 10;
+    std::cout << i << " " << ri << std::endl;
     return 0;
 }
